@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Release\SuperMarket.exe.config
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Release\SuperMarket.exe
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Release\SuperMarket.pdb
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Release\EntityFramework.dll
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\bin\Release\EntityFramework.xml
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.added_forms.cat_form.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.login_form.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.Properties.Resources.resources
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.csproj.GenerateResource.Cache
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.exe.licenses
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.exe
+C:\Users\HP\source\repos\SuperMarket\SuperMarket\obj\Release\SuperMarket.pdb
